@@ -1,4 +1,4 @@
-## Computational Ecosystem Science group
+## Geocomputation and Earth Observation (GECO)
 
 We are a collection of researchers driven by our curiosity to understand how the terrestrial biosphere operates. We work at the intersection of Earth system science, ecophysiology, biogeochemistry, ecology, applied statistics, machine learning, and high-​performance computing.
 
