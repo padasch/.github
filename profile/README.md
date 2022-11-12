@@ -11,3 +11,9 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 - [Environmental Systems Data Science](https://computationales.github.io/esds_book/) - an introduction to data science in R
 - [R project template](https://github.com/computationales/R_proj_template) - a basic R template to populate project directories
+
+## Publications repositories :pencil:
+
+- [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. submitted
+- [Determine the ratio of actual over potential flux measurements](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
+- [Relationships between EOS and Anet](https://github.com/computationales/phenoEOS) - Marques et al. 2022 in press
