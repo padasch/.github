@@ -7,6 +7,11 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [rsofun](https://github.com/computationales/rsofun) - An R package for dynamic vegetation modelling
 - [rpmodel](https://github.com/computationales/rpmodel) -  An R implementation of the P-model - ![](https://cranlogs.r-pkg.org/badges/grand-total/rpmodel) ![](https://www.r-pkg.org/badges/version/rpmodel)
 
+## Data processing :floppy_disk:
+
+- [FluxDataKit](https://github.com/computationales/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
+- [ingestr](https://github.com/computationales/ingestr) - Experimental package for data ingestion
+
 ## Teaching (workflows) :books:
 
 - [Environmental Systems Data Science](https://computationales.github.io/esds_book/) - an introduction to data science in R
