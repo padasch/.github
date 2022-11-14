@@ -10,6 +10,7 @@ We are a collection of researchers driven by our curiosity to understand how the
 ## Data processing :floppy_disk:
 
 - [FluxDataKit](https://github.com/computationales/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
+- [FluxnetEO](https://github.com/computationales/FluxnetEO) - Access and convert FluxnetEO data in R
 - [ingestr](https://github.com/computationales/ingestr) - Experimental package for data ingestion
 
 ## Teaching (workflows) :books:
