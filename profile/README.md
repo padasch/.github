@@ -23,3 +23,4 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. submitted
 - [Determine the ratio of actual over potential flux measurements](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
 - [Relationships between EOS and Anet](https://github.com/computationales/phenoEOS) - Marques et al. 2022 in press
+- [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marques et al. 2022 submitted
