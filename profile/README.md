@@ -24,3 +24,8 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [Determine the ratio of actual over potential flux measurements](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
 - [Relationships between EOS and Anet](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 in press
 - [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marqués et al. 2022 submitted
+
+## Lab admin :house:
+
+- [data management](https://github.com/computationales/data_management) - data storage and management for research computing :lock:
+- [system administration](https://github.com/computationales/system_administration) - compute infrastructure and software installation howtos :lock:
