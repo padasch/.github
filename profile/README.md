@@ -29,3 +29,4 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 - [data management](https://github.com/computationales/data_management) - data storage and management for research computing :lock:
 - [system administration](https://github.com/computationales/system_administration) - compute infrastructure and software installation howtos :lock:
+- [lab infrastructure](https://github.com/computationales/lab_infrastructure) - details on lab infrastructure :lock:
