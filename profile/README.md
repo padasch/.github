@@ -18,15 +18,15 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [Environmental Systems Data Science](https://computationales.github.io/esds_book/) - an introduction to data science in R
 - [R project template](https://github.com/computationales/R_proj_template) - a basic R template to populate project directories
 
+## Lab Info :house:
+
+- [data management](https://github.com/computationales/data_management) - data storage and management for research computing :lock:
+- [system administration](https://github.com/computationales/system_administration) - compute infrastructure and software installation howtos :lock:
+- [lab infrastructure](https://github.com/computationales/lab_infrastructure) - details on lab infrastructure :lock:
+
 ## Publication repositories :pencil:
 
 - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. submitted
 - [Determine the ratio of actual over potential flux measurements](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
 - [Relationships between EOS and Anet](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 in press
 - [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marqués et al. 2022 submitted
-
-## Lab Info :house:
-
-- [data management](https://github.com/computationales/data_management) - data storage and management for research computing :lock:
-- [system administration](https://github.com/computationales/system_administration) - compute infrastructure and software installation howtos :lock:
-- [lab infrastructure](https://github.com/computationales/lab_infrastructure) - details on lab infrastructure :lock:
