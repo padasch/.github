@@ -17,6 +17,7 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 - [Environmental Systems Data Science](https://computationales.github.io/esds_book/) - an introduction to data science in R
 - [R project template](https://github.com/computationales/R_proj_template) - a basic R template to populate project directories
+- [R code tools](https://github.com/computationales/R_code_tools) - a selection of commonly used development tools and practices
 
 ## Lab Info :house:
 
