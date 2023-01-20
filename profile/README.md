@@ -6,7 +6,7 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 - [rsofun](https://github.com/computationales/rsofun) - An R package for dynamic vegetation modelling
 - [rpmodel](https://github.com/computationales/rpmodel) -  An R implementation of the P-model - ![](https://cranlogs.r-pkg.org/badges/grand-total/rpmodel) ![](https://www.r-pkg.org/badges/version/rpmodel)
-- [GECOr](https://github.com/computationales/GECOr) - Internal R package for model development support, visualization and data wrangling (experimental :boom:)
+- [GECOr](https://github.com/computationales/GECOr) - Internal R package for model development support, visualization and data wrangling (:boom: experimental :boom:)
 ## Data processing :floppy_disk:
 
 - [FluxDataKit](https://github.com/computationales/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
