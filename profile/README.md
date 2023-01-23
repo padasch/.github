@@ -29,6 +29,6 @@ We are a collection of researchers driven by our curiosity to understand how the
 ## Publication repositories :pencil:
 
 - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. submitted
-- [Determine the ratio of actual over potential flux measurements](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
-- [Relationships between EOS and Anet](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 in press
+- [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
+- [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 Nature Ecology & Evolution
 - [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marqués et al. 2022 submitted
