@@ -7,6 +7,7 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [rsofun](https://github.com/computationales/rsofun) - An R package for dynamic vegetation modelling
 - [rpmodel](https://github.com/computationales/rpmodel) -  An R implementation of the P-model - ![](https://cranlogs.r-pkg.org/badges/grand-total/rpmodel) ![](https://www.r-pkg.org/badges/version/rpmodel)
 - [GECOr](https://github.com/computationales/GECOr) - Internal R package for model development support, visualization and data wrangling (:boom: experimental :boom:)
+
 ## Data processing :floppy_disk:
 
 - [FluxDataKit](https://github.com/computationales/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
@@ -28,7 +29,9 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 ## Publication repositories :pencil:
 
-- [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. submitted
-- [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/computationales/fvar) - Stocker et al. 2018 New Phytologist
-- [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 Nature Ecology & Evolution
-- [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marqués et al. 2022 submitted
+- [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. *submitted*
+- [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/computationales/fvar) - Stocker et al. 2018 *New Phytologist*
+- [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
+- [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marqués et al. 2022 *submitted*
+- [Rooting zone water storage capacity](https://github.com/computationales/mct) - Stocker et al., 2023 *Nature Geoscience*
+- [Cumulative water deficit algorithm](https://github.com/computationales/cwd) - Stocker et al., 2023 *Nature Geoscience*
