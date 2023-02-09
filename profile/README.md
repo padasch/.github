@@ -33,5 +33,5 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/computationales/fvar) - Stocker et al. 2018 *New Phytologist*
 - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
 - [Grow Fast Die Young hypothesis](https://github.com/computationales/GFDY) - Marqués et al. 2022 *submitted*
-- [Rooting zone water storage capacity](https://github.com/computationales/mct) - Stocker et al., 2023 *Nature Geoscience*
+- [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
 - [Cumulative water deficit algorithm](https://github.com/computationales/cwd) - Stocker et al., 2023 *Nature Geoscience*
