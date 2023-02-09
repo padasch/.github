@@ -20,7 +20,6 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [R project template](https://github.com/computationales/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/computationales/R_code_tools) - a selection of commonly used development tools and practices
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
-- [Conference materials](https://github.com/computationales/conference_materials) - conference materials such as posters and presentations :book:
 
 ## Lab Info :house:
 
@@ -28,8 +27,8 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [system administration](https://github.com/computationales/system_administration) - compute infrastructure and software installation howtos :lock:
 - [lab infrastructure](https://github.com/computationales/lab_infrastructure) - details on lab infrastructure :lock:
 
-## Publication repositories :pencil:
-
+## Publication/Conference repositories :pencil:
+- [Conference materials](https://github.com/computationales/conference_materials) - conference materials such as posters and presentations :book:
 - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. *submitted*
 - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/computationales/fvar) - Stocker et al. 2018 *New Phytologist*
 - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
