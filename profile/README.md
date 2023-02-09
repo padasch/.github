@@ -28,7 +28,7 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [lab infrastructure](https://github.com/computationales/lab_infrastructure) - details on lab infrastructure :lock:
 
 ## Publication/Conference repositories :pencil:
-- [Conference materials](https://github.com/computationales/conference_materials) - conference materials such as posters and presentations :book:
+- [GECO_media](https://github.com/computationales/GECO_media) - GECO media material - posters, presentations, visualizations :book:
 - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/computationales/fET) - Giardina et al. *submitted*
 - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/computationales/fvar) - Stocker et al. 2018 *New Phytologist*
 - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/computationales/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
