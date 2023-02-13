@@ -16,7 +16,7 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 ## Teaching (workflows) :books:
 
-- [Environmental Systems Data Science](https://computationales.github.io/esds_book/) - an introduction to data science in R
+- [Applied Geodata Science](https://computationales.github.io/https://github.com/computationales/agds/) - an introduction to data science in R
 - [R project template](https://github.com/computationales/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/computationales/R_code_tools) - a selection of commonly used development tools and practices
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
