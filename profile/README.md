@@ -2,6 +2,8 @@
 
 We are a collection of researchers driven by our curiosity to understand how the terrestrial biosphere operates. We work at the intersection of Earth system science, ecophysiology, biogeochemistry, ecology, applied statistics, machine learning, and high-performance computing. With our research we contribute to a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.
 
+We are committed to an Open Science practice. We’re building an environment of open source tools for ecosystem data and modelling. This should empower the community to use latest methodological innovations, developed by our group. Here is a list of our products.
+
 ## Vegetation modelling :deciduous_tree:
 
 - [rsofun](https://github.com/geco-bern/rsofun) - An R package for dynamic vegetation modelling
@@ -35,3 +37,9 @@ We are a collection of researchers driven by our curiosity to understand how the
 - [Grow Fast Die Young hypothesis](https://github.com/geco-bern/GFDY) - Marqués et al. 2022 *submitted*
 - [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
 - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
+
+----
+
+**Please note: :pray:**
+
+The authors of these packages are open to collaborate. Where substantial intellectual inputs are provided by us, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our YouTube channel, and related published papers. For remaining questions, please raise an issue on Github (in the respective repository). Of course, for such types of support and issue resolution, we do not expect co-authorships. Fair acknowledgements and properly cited software and literature is appreciated. Thank you.
