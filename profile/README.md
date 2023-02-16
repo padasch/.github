@@ -4,6 +4,8 @@ We are a collection of researchers driven by our curiosity to understand how the
 
 We are committed to an Open Science practice. We’re building an environment of open source tools for ecosystem data and modelling. This should empower the community to use latest methodological innovations, developed by our group. Here is a list of our products.
 
+Visit our group website at https://geco-group.org/.
+
 ## Vegetation modelling :deciduous_tree:
 
 - [rsofun](https://github.com/geco-bern/rsofun) - An R package for dynamic vegetation modelling
