@@ -30,6 +30,7 @@ Visit our group website at https://geco-group.org/.
 - [data management](https://github.com/geco-bern/data_management) - data storage and management for research computing :lock:
 - [system administration](https://github.com/geco-bern/system_administration) - compute infrastructure and software installation howtos :lock:
 - [lab infrastructure](https://github.com/geco-bern/lab_infrastructure) - details on lab infrastructure :lock:
+- [Discussions](https://github.com/orgs/geco-bern/discussions) - infrastructure development discussions :lock:
 
 ## Publication/Conference repositories :pencil:
 - [GECO media](https://github.com/geco-bern/GECO_media) - GECO media material - posters, presentations, visualizations :book:
