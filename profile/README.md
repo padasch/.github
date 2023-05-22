@@ -21,7 +21,7 @@ Visit our group website at https://geco-group.org/.
 ## Teaching (workflows) :books:
 
 - [Applied Geodata Science](https://github.com/geco-bern/agds) - an introduction to data science in R
-- [A handfull of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - introduction into geocomputation in R
+- [A handfull of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
 - [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
