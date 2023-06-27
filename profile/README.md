@@ -17,7 +17,7 @@ Visit our group website at https://geco-group.org/.
 - [FluxDataKit](https://github.com/geco-bern/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
 - [FluxnetEO](https://github.com/geco-bern/FluxnetEO) - Access and convert FluxnetEO data in R
 - [ingestr](https://github.com/geco-bern/ingestr) - Experimental package for data ingestion
-- [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion and functionalities.
+- [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion (geospatial Earth Observation and climate data) and functionalities.
 
 ## Teaching (workflows) :books:
 
