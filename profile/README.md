@@ -19,6 +19,10 @@ Visit our group website at https://geco-group.org/.
 - [ingestr](https://github.com/geco-bern/ingestr) - Experimental package for data ingestion
 - [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion (geospatial Earth Observation and climate data) and functionalities.
 
+## Machine learning
+
+- [mlflx2](https://github.com/geco-bern/mlflx2) - LSTM and DNN models for FLUXNET GPP modelling
+
 ## Teaching (workflows) :books:
 
 - [Applied Geodata Science](https://github.com/geco-bern/agds) - an introduction to data science in R
