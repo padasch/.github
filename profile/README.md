@@ -23,10 +23,17 @@ Visit our group website at https://geco-group.org/.
 
 - [mlflx2](https://github.com/geco-bern/mlflx2) - LSTM and DNN models for FLUXNET GPP modelling
 
-## Teaching (workflows) :books:
+## Courses 🧑‍🏫
 
-- [Applied Geodata Science](https://github.com/geco-bern/agds) - an introduction to data science in R
+- [Applied Geodata Science 1](https://geco-bern.github.io/agds1_course/) - an introduction course to data science in R
+- [Applied Geodata Science 2](https://geco-bern.github.io/agds2_course/) - an introduction to applied cases of geodata science
+- [Applied Geodata Science Proseminar](https://geco-bern.github.io/agds_proseminar/) - an introduction to creating a new geodata science application
+
+## Teaching Material and Workflows :books:
+
+- [Applied Geodata Science Book](https://geco-bern.github.io/agds) - our group's textbook on applied geodata science
 - [A handfull of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
+- [Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - a tutorial on mapping soil properties in R
 - [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
