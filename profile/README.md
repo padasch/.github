@@ -22,6 +22,7 @@ Visit our group website at https://geco-group.org/.
 ## Machine learning
 
 - [mlflx2](https://github.com/geco-bern/mlflx2) - LSTM and DNN models for FLUXNET GPP modelling
+- [forest drought forecasting](https://github.com/geco-bern/forest_drought_forecasting) - leveraging minicubes to forecast forest drought events
 
 ## Teaching (workflows) :books:
 
