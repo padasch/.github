@@ -25,16 +25,16 @@ Visit our group website at https://geco-group.org/.
 - [forest drought forecasting](https://github.com/geco-bern/forest_drought_forecasting) - leveraging minicubes to forecast forest drought events
 
 ## Courses 🧑‍🎓
-- [Applied Geodata Science I](https://github.com/geco-bern/agds_1) - an introduction to applied geodata science
-- [Applied Geodata Science II](https://github.com/geco-bern/agds_2) - an overview of real-world geodata science applications
-- [Applied Geodata Science Proseminar](https://github.com/geco-bern/agds_proseminar) - an introduction to start your own applied geodata science project
+- [Applied Geodata Science I](https://geco-bern.github.io/agds1_course/) - an introduction to applied geodata science
+- [Applied Geodata Science II](https://geco-bern.github.io/agds2_course/) - an overview of real-world geodata science applications
+- [Applied Geodata Science Proseminar](https://geco-bern.github.io/agds_proseminar/) - an introduction to start your own applied geodata science project
 
 ## Teaching Material, Tutorials, and Workflows 📚
 
-- [Applied Geodata Science - Textbook](https://github.com/geco-bern/agds) - our group's textbook on applied geodata science
+- [Applied Geodata Science - Textbook](https://geco-bern.github.io/agds/) - our group's textbook on applied geodata science
 - [A handfull of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
 - [Tutorial - Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - an introduction to digital soil mapping
-- [Tutorial - Leaf Temperature Modelling](https://github.com/padasch/leaf_energy_balance_tutorial) - an introduction to modelling a leaf's energy balance
+- [Tutorial - Leaf Temperature Modelling](https://padasch.github.io/leaf_energy_balance_tutorial/) - an introduction to modelling a leaf's energy balance
 - [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
