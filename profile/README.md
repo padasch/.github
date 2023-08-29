@@ -31,8 +31,8 @@ Visit our group website at https://geco-group.org/.
 
 ## Teaching Material, Tutorials, and Workflows 📚
 
-- [Applied Geodata Science - Textbook](https://geco-bern.github.io/agds/) - our group's textbook on applied geodata science
-- [A handfull of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
+- [Applied Geodata Science](https://geco-bern.github.io/agds/) - an introduction to data science in R
+- [A handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
 - [Tutorial - Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - an introduction to digital soil mapping
 - [Tutorial - Leaf Temperature Modelling](https://padasch.github.io/leaf_energy_balance_tutorial/) - an introduction to modelling a leaf's energy balance
 - [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
@@ -54,8 +54,6 @@ Visit our group website at https://geco-group.org/.
 - [Grow Fast Die Young hypothesis](https://github.com/geco-bern/GFDY) - Marqués et al. 2022 *submitted*
 - [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
 - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
-
-----
 
 **Please note: :pray:**
 
